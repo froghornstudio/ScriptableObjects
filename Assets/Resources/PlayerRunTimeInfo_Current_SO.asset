@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1511c5e925b8e0144a012794ff69ff9a, type: 3}
+  m_Name: PlayerRunTimeInfo_Current_SO
+  m_EditorClassIdentifier: 
+  current_save_slot: 0
+  player1_current_health: 20
+  player1_max_health: 40
+  player2_current_health: 60
+  player2_max_health: 80
