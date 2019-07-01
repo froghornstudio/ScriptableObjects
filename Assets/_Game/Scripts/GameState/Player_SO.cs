@@ -1,9 +1,7 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
 //[CreateAssetMenu]
-public class PlayerRunTimeInfo : ScriptableObject
+public class Player_SO : ScriptableObject
 {
 
     [Header("Runtime Game Values")]
@@ -18,4 +16,5 @@ public class PlayerRunTimeInfo : ScriptableObject
     public int player2_current_health;
     public int player2_max_health;
 
+    public string favColor;
 }
