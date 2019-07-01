@@ -1,0 +1,1 @@
+This project is a starting point I use in all of my new game projects. It uses Unity's Scriptable Objects to create a shared resource similar in purpose of Global Variables that are available in other game engines.
